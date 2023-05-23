@@ -1,0 +1,3 @@
+git config --global user.name "Vipul Tembulwar"
+
+git config --global --edit
