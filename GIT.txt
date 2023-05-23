@@ -1,3 +1,5 @@
 git config --global user.name "Vipul Tembulwar"
 
+git config --global user.email "Vipultembulwar@gmail.com"
+
 git config --global --edit
